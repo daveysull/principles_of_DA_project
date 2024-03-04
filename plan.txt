@@ -1,0 +1,9 @@
+# Project Overview
+
+Create a GitHub repository with a README.md and a .gitignore. Add a Jupyter notebook called penguins.ipynb and add a title to it. (Done)
+
+Find the palmerpenguins data set online and load it into your Jupyter notebook. In your notebook, give an overview of the data set and the variables it contains.
+
+Suggest the types of variables that should be used to model the variables in the data set in Python, explaining your rationale.
+^ The types should be integers 
+Create a bar chart of an appropriate variable in the data set. Then create a histogram of an appropriate variable in the data set.
